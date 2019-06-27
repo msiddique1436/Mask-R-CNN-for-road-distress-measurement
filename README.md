@@ -10,3 +10,9 @@ The below link is a snippet of the code in progress.
 
 ### https://www.youtube.com/watch?v=vFMUTCw3B0A
 
+
+Programming Language: Python.
+Software tools and libraries: Keras, Tensorflow, Opencv, Numpy, Sci-kit learn.
+Training Hardware: 12-core I7, 16GB RAM, Nvidia GeForce RTX 2080 Ti 11GB.
+Deployement Hardware: I5, 8GB RAM, 2GB Nvidia Graphics.
+
